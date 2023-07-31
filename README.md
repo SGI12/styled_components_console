@@ -3,4 +3,5 @@
 ## Запуск проекта
 
 ## cd styled-console
+## npm install
 ## npm start
